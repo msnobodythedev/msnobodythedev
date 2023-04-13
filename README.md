@@ -3,7 +3,7 @@
 
 I am a software engineer, a technical writer and a guest lecturer at a university.
 <hr />
-Through my tutorial & youTube videos, I hope to help others to start their coding journey, learn new technologies and desire to inspire them to be healthy developers mentally and physically.
+Via my tutorial on YouTube, I hope to help others to start their coding journey, learn new technologies and desire to inspire them to be healthy developers mentally and physically. 
   <br />
   <hr />
   
