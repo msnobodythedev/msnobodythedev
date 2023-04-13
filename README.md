@@ -5,6 +5,8 @@ I am a software engineer, a technical writer and a guest lecturer at a universit
 <hr />
 Through my tutorial & youTube videos, I hope to help others to start their coding journey, learn new technologies and desire to inspire them to be healthy developers mentally and physically.
   <br />
+  <hr />
+  
 Fun fact: I studied Computer Programming and Information Technologies back in college, but I'm generally a big fan of self-learning. To learn something new in today's world, all we need to do is to be curious about that specific thing, do our research, concentrate on the process and finally get started with the first step.😇
   
 
