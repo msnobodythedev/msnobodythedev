@@ -2,7 +2,7 @@
 <div align="center">
 
 I am a software engineer specialized in front-end development. I am also a technical writer and a guest lecturer at a university.
-<br />
+<hr />
 Through my tutorial & youTube videos, I hope to help others to learn coding, new technologies and inspire them to be healthy developer mentally and physically.
   <br />
 Fun fact: I studied Information Technologies and Computer Programming back in college, but I'm generally big fan of self-learning. To learn something new in today's world, all we need to do is to be curious about that specific thing, do our research and finally start the process.😇
