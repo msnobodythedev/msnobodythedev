@@ -1,9 +1,8 @@
-<h1 align="center"><b>The Tutorials of Ms. NodbodyTheDev<img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
+<h1 align="center"><b>The Tutorials of Ms. NodbodyTheDev</h1>
 <div align="center">
 
-- :raising_hand: I am a software engineer specialized in front-end development. I am also a technical writer and a guest lecturer at a university.
-- :muscle: I am currently helping others to learn coding.
-- :speech_balloon: Ask me about anything related to accessibility. I am happy to help
+- I am a software engineer specialized in front-end development. I am also a technical writer and a guest lecturer at a university.
+- I genuinely enjoy helping others to learn coding and new technologies.
 - Fun fact: I studied Information Technologies and Computer Programming back in college, but I'm generally a self-learner and as such I've been learning many things by being curious about everything 😇
   
 
