@@ -28,11 +28,6 @@ Fun fact: I studied Information Technologies and Computer Programming back in co
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 
   
-</td><td valign="top" width="50%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="500" />
-  
-</td></tr></table> 
 
 <br />
 
