@@ -1,11 +1,11 @@
 <h1 align="center"><b>The Tutorials of Ms. NodbodyTheDev</h1>
 <div align="center">
 
-I am a software engineer specialized in front-end development. I am also a technical writer and a guest lecturer at a university.
+I am a software engineer, a technical writer and a guest lecturer at a university.
 <hr />
-Through my tutorial & youTube videos, I hope to help others to learn coding, new technologies and inspire them to be healthy developer mentally and physically.
+Through my tutorial & youTube videos, I hope to help others to start their coding journey, learn new technologies and desire to inspire them to be healthy developers mentally and physically.
   <br />
-Fun fact: I studied Information Technologies and Computer Programming back in college, but I'm generally big fan of self-learning. To learn something new in today's world, all we need to do is to be curious about that specific thing, do our research and finally start the process.😇
+Fun fact: I studied Computer Programming and Information Technologies back in college, but I'm generally a big fan of self-learning. To learn something new in today's world, all we need to do is to be curious about that specific thing, do our research, concentrate on the process and finally get started with the first step.😇
   
 
 <br />
