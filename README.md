@@ -7,7 +7,7 @@ Via my tutorial on YouTube, I hope to help others to start their coding journey,
   <br />
   <hr />
   
-FUN FACT => I studied Computer Programming & Information Technologies back in college, but I'm generally a big fan of self-learning. To learn something new in today's world, all we need to do is to be curious about that specific thing, do our research, concentrate on the process and finally get started with the first step.😇
+FUN FACT => I studied Computer Programming & Information Technologies back in college, but I'm generally a big fan of self-learning. To learn something new in today's world, all we need to do is to be curious about that specific thing, do our research, concentrate on the process and finally get started with the first step. 😇
   
 
 <br />
