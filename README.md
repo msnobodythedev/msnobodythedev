@@ -1,5 +1,5 @@
 <h1 align="center"><b>The Tutorials of Ms. NodbodyTheDev</h1>
-<div align="center">
+
 
 I am a software engineer specialized in front-end development. I am also a technical writer and a guest lecturer at a university.
 Through my tutorial & youTube videos, I hope to help others to learn coding, new technologies and inspire them to be healthy developer mentally and physically.
