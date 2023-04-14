@@ -1,5 +1,6 @@
 <h1 align="center"><b>Front-End: Bite-size</h1>
-  ![pexels-thisisengineering-3861958](https://user-images.githubusercontent.com/130635121/231951582-ff4f9dfa-6819-4247-9a26-c7a4e865b601.jpeg)
+
+![pexels-thisisengineering-3861958](https://user-images.githubusercontent.com/130635121/231951760-f8eb66aa-b836-4522-8924-e9f4bfa01370.jpeg)
 
 <div align="center">
 
