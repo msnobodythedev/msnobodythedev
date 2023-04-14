@@ -1,4 +1,4 @@
-<h1 align="center"><b>The Tutorials of Ms.NobodyTheDev</h1>
+<h1 align="center"><b>Front-End Development: Bite-size</h1>
 <div align="center">
 
 I am a software engineer, a technical writer & a guest lecturer at a university.
