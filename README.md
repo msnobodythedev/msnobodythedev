@@ -6,7 +6,7 @@
 
 I am a software engineer, a technical writer & a guest lecturer at a university.
 <hr />
-Via my tutorial on YouTube, I hope to help people from all walks of life to start their coding journey, learn new technologies and inspire them to be happy & healthy developers both mentally and physically. 
+Via my tutorial on YouTube, I hope to help people from all walks of life to start their coding journey, learn new technologies and inspire them to be happy & healthy developers both mentally and physically. No, chatGPT is not a threat... To the contrary, it is a productive colleague. 😇
   <br />
   <hr />
   
