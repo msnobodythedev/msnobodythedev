@@ -1,4 +1,6 @@
 <h1 align="center"><b>Front-End: Bite-size</h1>
+  ![pexels-thisisengineering-3861958](https://user-images.githubusercontent.com/130635121/231951582-ff4f9dfa-6819-4247-9a26-c7a4e865b601.jpeg)
+
 <div align="center">
 
 I am a software engineer, a technical writer & a guest lecturer at a university.
