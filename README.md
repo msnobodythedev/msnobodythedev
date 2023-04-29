@@ -1,6 +1,6 @@
 <h1 align="center"><b>Front-End: Bite-Size Tips & Life Hacks</h1>
 
-<img width="856" alt="Screenshot 2023-04-29 at 12 55 30" src="https://user-images.githubusercontent.com/130635121/235296712-40dc5fac-2761-4191-b455-bc57a417c5f4.png">
+<img width="868" alt="Screenshot 2023-04-29 at 13 12 26" src="https://user-images.githubusercontent.com/130635121/235297426-cca6708f-61b0-4fb0-ab42-cd792d055b6d.png">
 
 
 
