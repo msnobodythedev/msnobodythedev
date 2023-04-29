@@ -2,9 +2,9 @@
 
 ![pexels-rodnae-productions-8098251](https://user-images.githubusercontent.com/130635121/235294143-f991ba85-1cfa-4598-888f-11a2557ff475.jpg)
 
-I am a software engineer, a technical writer & a guest lecturer at a university.
+
 <hr />
-Via my tutorial on YouTube, I hope to help people from all walks of life to start their coding journey, learn new technologies and inspire them to be happy & healthy developers both mentally and physically. 
+Welcome on board, fellow programmers! This is the specific repo dedicated to my YouTube channel only. I'm a software engineer, a guest lecturer at a university and I do enjoy crafting technical articles. I hope to help people from all walks of life to start their coding journey - especially front-end development, learn new technologies and inspire them to be happy & healthy developers both mentally and physically. 
   <br />
   <hr /> 
   ChatGPT doesn't have to be a threat. It can actually be a highly productive colleague.
@@ -27,6 +27,7 @@ FUN FACT => I studied Computer Programming & Information Technologies back in co
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/-Web3 Technologiesy?&style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
