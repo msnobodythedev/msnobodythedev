@@ -1,6 +1,7 @@
 <h1 align="center"><b>Front-End: Bite-Size</h1>
 
-![pexels-rodnae-productions-8098251](https://user-images.githubusercontent.com/130635121/235294143-f991ba85-1cfa-4598-888f-11a2557ff475.jpg)
+<img width="988" alt="Screenshot 2023-04-29 at 12 47 18" src="https://user-images.githubusercontent.com/130635121/235296472-d2b90e5d-f912-4fe8-af49-7c15e6af297f.png">
+
 
 
 <hr />
