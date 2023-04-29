@@ -1,4 +1,4 @@
-<h1 align="center"><b>Front-End: Bite-Size</h1>
+<h1 align="center"><b>Front-End: Bite-Size Tips & Life Hacks</h1>
 
 <img width="856" alt="Screenshot 2023-04-29 at 12 55 30" src="https://user-images.githubusercontent.com/130635121/235296712-40dc5fac-2761-4191-b455-bc57a417c5f4.png">
 
