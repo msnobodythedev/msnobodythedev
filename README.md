@@ -1,6 +1,6 @@
 <h1 align="center"><b>Front-End: Bite-Size</h1>
 
-![Uploading image.png…]()<div align="center">
+![pexels-rodnae-productions-8098251](https://user-images.githubusercontent.com/130635121/235294143-f991ba85-1cfa-4598-888f-11a2557ff475.jpg)
 
 I am a software engineer, a technical writer & a guest lecturer at a university.
 <hr />
