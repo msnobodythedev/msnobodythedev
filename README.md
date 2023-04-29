@@ -5,7 +5,7 @@
 
 
 <hr />
-Welcome on board, fellow programmers! This is the specific repo dedicated to my YouTube channel only. I'm a software engineer, a guest lecturer at a university and I do enjoy crafting technical articles. I hope to help people from all walks of life to start their coding journey - especially front-end development, learn new technologies and inspire them to be happy & healthy developers both mentally and physically. 
+Welcome on board, fellow programmers! This is the specific repo dedicated to my YouTube channel only. I'm a software engineer, a guest lecturer at a university and I do enjoy crafting technical articles. I hope to help people from all walks of life to start their coding journey, learn new technologies and inspire them to be happy & healthy developers both mentally and physically. 
   <br />
   <hr /> 
   ChatGPT doesn't have to be a threat. It can actually be a highly productive colleague.
